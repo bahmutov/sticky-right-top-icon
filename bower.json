@@ -1,0 +1,25 @@
+{
+  "name": "sticky-right-top-icon",
+  "version": "0.0.0",
+  "authors": [
+    "Gleb Bahmutov <gleb.bahmutov@gmail.com>"
+  ],
+  "description": "Adds sticky 'icon' to any element, even if it has a scrollbar",
+  "main": "sticky-right-top-icon.js",
+  "keywords": [
+    "sticky",
+    "element",
+    "position",
+    "corner",
+    "scrollable"
+  ],
+  "license": "MIT",
+  "homepage": "http://glebbahmutov.com/sticky-right-top-icon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
