@@ -1,16 +1,16 @@
-/*! sticky-right-top-icon - 0.0.0 */
+/*! sticky-right-top-icon - 0.0.2 */
 
 .top-right-wrapper {
-  background-color: green;
   display: table-cell;
   position: relative;
+  padding: 0;
 }
 
 .top-right-icon {
-  position: relative;
+  position: absolute;
   top: 2px;
   /* enough space for scroll bar */
   right: 20px;
-  float: right;
+  /*float: right;*/
   z-index: 2;
 }

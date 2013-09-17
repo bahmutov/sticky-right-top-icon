@@ -29,6 +29,8 @@ $icon.css('right', '18px');
 
 ### Fine print
 
+Developed on [bitbucket](https://bitbucket.org/bahmutov/sticky-right-top-icon), distributed through [github](https://github.com/bahmutov/sticky-right-top-icon).
+
 Author: Gleb Bahmutov <gleb.bahmutov@gmail.com>
 License: MIT
 Copyright &copy; 2013 Gleb Bahmutov
